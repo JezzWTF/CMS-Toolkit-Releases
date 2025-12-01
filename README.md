@@ -4,8 +4,8 @@ A comprehensive monitor testing suite for display calibration and quality assura
 
 ## 📥 Download Latest Release
 
-[![Latest Release](https://img.shields.io/github/v/release/JezzWTF/ScreenTester-Releases?style=for-the-badge)](https://github.com/JezzWTF/ScreenTester-Releases/releases/latest)
-[![GitHub Pre-Releases](https://img.shields.io/github/v/release/JezzWTF/ScreenTester-Releases?include_prereleases&style=for-the-badge)](https://github.com/JezzWTF/ScreenTester-Releases/releases)
+[![Stable Release](https://img.shields.io/github/v/release/JezzWTF/ScreenTester-Releases?label=Stable&style=for-the-badge)](https://github.com/JezzWTF/ScreenTester-Releases/releases/latest)
+[![Pre-Release](https://img.shields.io/github/v/release/JezzWTF/ScreenTester-Releases?include_prereleases&label=Pre-Release&style=for-the-badge)](https://github.com/JezzWTF/ScreenTester-Releases/releases)
 
 **[⬇️ Download for Windows](https://github.com/JezzWTF/ScreenTester-Releases/releases/latest)**
 
